@@ -13,7 +13,7 @@ namespace Tyuiu.DmiterkoKD.Sprint3.Task1.V24
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла while                                              *");
             Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #24                                                              *");
+            Console.WriteLine("* Вариант #24                                                             *");
             Console.WriteLine("* Выполнила: Дмитерко Кира Дмитриевна | ИБКСб-24-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
