@@ -13,7 +13,7 @@ namespace Tyuiu.DmiterkoKD.Sprint3.Task6.V20.Lib
                 {
                     if (x%i ==0 & i <12)
                     {
-                        sum = sum + i;
+                        sum++;
                     }
                 }
             }
